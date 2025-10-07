@@ -1,4 +1,4 @@
-**This is a brief note on the docker file**:
+**This is a brief Readme about the docker file**:
 
   **FROM nginx:alpine** selects the docker container need to run
 
